@@ -1,4 +1,4 @@
-#**_ Iryna Mayorava _**
+# Iryna Mayorava 
 
 ## Contacts:
    * **phone**: +375(29)566-39-77
