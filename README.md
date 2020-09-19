@@ -1,1 +1,1 @@
-https://Majorovaira.github.io/rsschool-cv/cv
+https://Majorovaira.github.io/rsschool-cv/
