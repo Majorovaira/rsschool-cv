@@ -13,7 +13,7 @@
    * Building knowledge every day
    
 ## Languages: 
-   * English A1+
+   * English A2
    
 # Skills: 
    * Java 8+, Java EE
